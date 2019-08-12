@@ -1,0 +1,16 @@
+Session 1:
+Introdution and coverage of the series. (Orientation) 	: 25 Min
+Revision of python through cheatsheet 			: 1 Hr
+
+Session 2:						: 2 Hr
+Introduction to numpy
+Documentation reference
+Overview of particular array generating and manipulation functions
+miscellaneous functions and classes
+
+Session 3:						: 2 Hr
+Introduction to matplotlib
+Documentation reference
+Overview of 2D Graphs and respective functions
+3D plotting functions
+miscellaneous functions and classes
